@@ -1,0 +1,13 @@
+F:\Danny\Kuliah\Sem 2\Pemrograman\UTS\UTS\UTS\bin\Debug\UTS.exe.config
+F:\Danny\Kuliah\Sem 2\Pemrograman\UTS\UTS\UTS\bin\Debug\UTS.exe
+F:\Danny\Kuliah\Sem 2\Pemrograman\UTS\UTS\UTS\bin\Debug\UTS.pdb
+F:\Danny\Kuliah\Sem 2\Pemrograman\UTS\UTS\UTS\obj\Debug\UTS.csprojAssemblyReference.cache
+F:\Danny\Kuliah\Sem 2\Pemrograman\UTS\UTS\UTS\obj\Debug\UTS.exe
+F:\Danny\Kuliah\Sem 2\Pemrograman\UTS\UTS\UTS\obj\Debug\UTS.pdb
+C:\Users\Danny Nurakhmad\Documents\Kuliah\Sem 2\Pemrograman\UTS\UTS\UTS\bin\Debug\UTS.exe.config
+C:\Users\Danny Nurakhmad\Documents\Kuliah\Sem 2\Pemrograman\UTS\UTS\UTS\bin\Debug\UTS.exe
+C:\Users\Danny Nurakhmad\Documents\Kuliah\Sem 2\Pemrograman\UTS\UTS\UTS\bin\Debug\UTS.pdb
+C:\Users\Danny Nurakhmad\Documents\Kuliah\Sem 2\Pemrograman\UTS\UTS\UTS\obj\Debug\UTS.csprojAssemblyReference.cache
+C:\Users\Danny Nurakhmad\Documents\Kuliah\Sem 2\Pemrograman\UTS\UTS\UTS\obj\Debug\UTS.csproj.CoreCompileInputs.cache
+C:\Users\Danny Nurakhmad\Documents\Kuliah\Sem 2\Pemrograman\UTS\UTS\UTS\obj\Debug\UTS.exe
+C:\Users\Danny Nurakhmad\Documents\Kuliah\Sem 2\Pemrograman\UTS\UTS\UTS\obj\Debug\UTS.pdb
